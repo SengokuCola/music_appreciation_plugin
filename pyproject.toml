@@ -1,0 +1,6 @@
+[project]
+name = "maibot-music-appreciation-plugin"
+version = "0.1.0"
+description = "Lyrics-based music appreciation tool for MaiBot"
+requires-python = ">=3.12"
+dependencies = ["httpx>=0.28.1,<1", "maibot-plugin-sdk>=2.9.0,<3"]
